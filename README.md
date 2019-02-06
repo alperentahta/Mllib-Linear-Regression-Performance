@@ -15,7 +15,7 @@
 cores = [1,2,3,4,5,6,7,8]  
 datasize = [1MB, 10MB, 100MB, 1000MB, 10000MB]
 
- ![alt text](Mllib-Linear-Regression-Performance/plot/spark benchmark (datasize vs #cores) with log.png)
+ ![alt text](plot/spark%20benchmark%20(datasize%20vs%20%23core)%20with%20log.png)
 
  ![](plot/spark benchmark (datasize vs #cores).png) 
  ![](plot/spark benchmark (datasize vs #cores) with log.png)  |
