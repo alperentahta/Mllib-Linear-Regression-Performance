@@ -21,49 +21,49 @@ datasize = [1MB, 10MB, 100MB, 1000MB, 10000MB]
 **log(elapsedtime)=1** | ![](plot/result_log_elapsedtime.png)  |  ![](plot/result_log_elapsedtime_log_datasize.png)  |  
 
 
-Core: 8 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.46 sec  
-Core: 7 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.48 sec 
-Core: 6 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.51 sec
-Core: 5 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.47 sec
-Core: 4 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.49 sec
-Core: 3 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.50 sec
-Core: 2 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.52 sec
-Core: 1 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.49 sec
+Core: 8 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.46 sec   
+Core: 7 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.48 sec   
+Core: 6 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.51 sec  
+Core: 5 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.47 sec  
+Core: 4 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.49 sec  
+Core: 3 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.50 sec    
+Core: 2 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.52 sec  
+Core: 1 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.49 sec  
 
-Core: 8 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.53 sec
-Core: 7 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.54 sec
-Core: 6 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.37 sec
-Core: 5 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.42 sec
-Core: 4 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.49 sec
-Core: 3 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.98 sec
-Core: 2 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:6.03 sec
-Core: 1 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:7.98 sec
-
-Core: 8 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:11.23 sec
-Core: 7 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:12.57 sec
-Core: 6 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:12.99 sec
-Core: 5 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:15.17 sec
-Core: 4 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:17.84 sec
-Core: 3 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:21.50 sec
-Core: 2 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:30.17 sec
-Core: 1 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:55.60 sec
-
-Core: 8 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:89.28 sec
-Core: 7 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:132.16 sec
-Core: 6 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:140.37 sec
+Core: 8 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.53 sec 
+Core: 7 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.54 sec 
+Core: 6 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.37 sec 
+Core: 5 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.42 sec 
+Core: 4 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.49 sec 
+Core: 3 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:4.98 sec 
+Core: 2 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:6.03 sec 
+Core: 1 - Input: input/generated_files/10mb.csv - Size: 10.00 MB - Elapsed time:7.98 sec 
+ 
+Core: 8 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:11.23 sec 
+Core: 7 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:12.57 sec 
+Core: 6 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:12.99 sec 
+Core: 5 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:15.17 sec 
+Core: 4 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:17.84 sec 
+Core: 3 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:21.50 sec 
+Core: 2 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:30.17 sec 
+Core: 1 - Input: input/generated_files/100mb.csv - Size: 100.00 MB - Elapsed time:55.60 sec 
+ 
+Core: 8 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:89.28 sec 
+Core: 7 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:132.16 sec 
+Core: 6 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:140.37 sec 
 Core: 5 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:139.61 sec
-Core: 4 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:137.69 sec
-Core: 3 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:188.86 sec
-Core: 2 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:247.61 sec
-Core: 1 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:446.68 sec
-
-Core: 8 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:728.79 sec
-Core: 7 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:819.45 sec
-Core: 6 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:891.66 sec
-Core: 5 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:1073.47 sec
-Core: 4 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:1225.01 sec
-Core: 3 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:1538.47 sec
-Core: 2 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:2293.38 sec
-Core: 1 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:4426.33 sec
-
+Core: 4 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:137.69 sec 
+Core: 3 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:188.86 sec 
+Core: 2 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:247.61 sec 
+Core: 1 - Input: input/generated_files/1000mb.csv - Size: 1000.03 MB - Elapsed time:446.68 sec 
+ 
+Core: 8 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:728.79 sec 
+Core: 7 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:819.45 sec 
+Core: 6 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:891.66 sec 
+Core: 5 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:1073.47 sec 
+Core: 4 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:1225.01 sec 
+Core: 3 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:1538.47 sec 
+Core: 2 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:2293.38 sec 
+Core: 1 - Input: input/generated_files/10000mb.csv - Size: 10000.29 MB - Elapsed time:4426.33 sec 
+ 
 
