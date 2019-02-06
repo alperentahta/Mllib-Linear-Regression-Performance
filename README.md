@@ -15,10 +15,8 @@
 cores = [1,2,3,4,5,6,7,8]  
 datasize = [1MB, 10MB, 100MB, 1000MB, 10000MB]
 
- .  |log(datasize)=0|  log(datasize)=1
---|--|--
-**log(elapsedtime)=0** | ![](plot/result.png)  |  ![](plot/result_log_datasize.png)  |
-**log(elapsedtime)=1** | ![](plot/result_log_elapsedtime.png)  |  ![](plot/result_log_elapsedtime_log_datasize.png)  |  
+ 
+  (plot/spark benchmark (datasize vs #cores).png) (plot/spark benchmark (datasize vs #cores) with log.png)  |
 
 
 Core: 8 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.46 sec   
