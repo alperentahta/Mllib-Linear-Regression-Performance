@@ -15,10 +15,9 @@
 cores = [1,2,3,4,5,6,7,8]  
 datasize = [1MB, 10MB, 100MB, 1000MB, 10000MB]
 
- ![alt text](plot/spark%20benchmark%20(datasize%20vs%20%23core)%20with%20log.png)
+ ![](plot/spark%20benchmark%20(datasize%20vs%20%23core)%20with%20log.png)
 
- ![](plot/spark benchmark (datasize vs #cores).png) 
- ![](plot/spark benchmark (datasize vs #cores) with log.png)  |
+ ![](plot/spark%20benchmark%20(datasize%20vs%20%23core).png)
 
 
 Core: 8 - Input: input/generated_files/1mb.csv - Size: 1.00 MB - Elapsed time:2.46 sec   
