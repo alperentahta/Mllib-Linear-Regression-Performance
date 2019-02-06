@@ -1,4 +1,5 @@
 
 */.ipynb_checkpoints/*
-
+.ipynb_checkpoints/*
 spark-lr/input/generated_files/*
+*.csv
