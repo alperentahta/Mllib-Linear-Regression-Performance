@@ -1,12 +1,5 @@
 # Spark-Benchmark
 
-###Current Status:
-*  test failed for (* core-16GB data)  
-*  test failed for (16 core-16GB data)
-* all other tests are passed.
-
-
-
 ### How to run?
 `python benchmark.py --core 16 --input input/generated_files/1000mb.csv`  
 `python plot.py result_path --log_elapsedtime --log_datasize`
